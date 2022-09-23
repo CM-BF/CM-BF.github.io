@@ -1,0 +1,20 @@
+experiences:
+
+- place: "Texas A&M University"
+  time: "2020 - now"
+  title: "Ph.D. Student"
+  subtitle: "DIVE Lab: Advisor: Dr. Shuiwang Ji"
+  category: "school"
+
+- place: "The University of Sydney"
+  time: "Summer 2019"
+  title: "Intern"
+  subtitle: "Research Scientist, Mentor: Dr. Dacheng Tao"
+  category: "work"
+
+- place: "University of Science and Technology of China"
+  time: "2016 - 2020"
+  title: "B.E. Student"
+  subtitle: "Computer Science and Technology (Honor class)"
+  category: "school"
+
