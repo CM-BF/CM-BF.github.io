@@ -6,13 +6,17 @@ title: Home
 <div class="docs-section" id="bio">
   <h4>Bio</h4>
   <p>
-      Howdy! I am currently a 2nd year Ph.D. student at Texas A&M University, advised by <a href="http://people.tamu.edu/~sji/">Dr. Shuiwang Ji</a>, the leader of the <b>D</b>ata <b>I</b>ntegration, <b>V</b>isualization, and <b>E</b>xploration (<b>DIVE</b>) Lab.
+      Howdy! I am currently a 3rd year Ph.D. student at Texas A&M University, advised by <a href="http://people.tamu.edu/~sji/">Dr. Shuiwang Ji</a>, the leader of the <b>D</b>ata <b>I</b>ntegration, <b>V</b>isualization, and <b>E</b>xploration (<b>DIVE</b>) Lab.
       I got my B.E. from University of Science and Technology of China in Computer Science and Technology (honor class) in 2020.
   </p>
 
   <p>
-      My research interests are general machine learning and deep learning. Specifically, my interest topics include <b>Out-of-Distribution generalization, causality, and explainability especailly for graph data</b>.
-  </p> 
+      My research interests are general machine learning and deep learning. My interest topics include <b>Graph learning, Out-of-Distribution generalization, Causality, and Explainability</b>. Specifically, I am exploring how causal inference can
+      guide us with more generalizable machine learning model in different tasks, e.g., chemistry, bioinfomation, and physical simulations. One significant challenge is how can we verify the validity of our causal assumptions.
+  </p>
+    <p>
+        I am enthusiastically open to collaboration and actively seeking internship opportunities. If you're interested in working together or have opportunities available, please feel free to reach out to me!
+    </p>
   <!--
   I am a Postdoc at the department of Management Science and Engineering at Stanford University, working with <a href="https://web.stanford.edu/~jugander/" target="_blank">Johan Ugander</a>. 
   My research develops tools for analyzing large-scale social data, aiming to provide a better understanding of social structure and behaviors online while also impacting the design of digital social systems.
@@ -161,7 +165,9 @@ title: Home
               </div>
             </div>
           {% endfor %} -->
-    {% for paper in site.data.publications.papers %}
+    {% for year in site.data.publications.pubs %}
+    <h5><b>{{year.year}}</b></h5>
+    {% for paper in year.papers %}
     <div class="paper">
         <div class="row">
             <div class="four columns">
@@ -251,6 +257,7 @@ title: Home
         </div>
     </div>
     {% endfor %}
+    {% endfor %}
     <!--    </div>
       </div> -->
 </div>
@@ -264,7 +271,7 @@ title: Home
         <p>{{ sv.venue }} <i style="float:right;"> {{ sv.year }}</i></p>
         {% endfor %}
     </div>
-    <h5>Program Committee Member & Reviewer [Selected]</h5>
+    <h5>Program Committee Member & Reviewer</h5>
     <div class="paper">
         {% for sv in site.data.services.reviewers %}
         <p>{{ sv.venue }} <i style="float:right;"> {{ sv.year }}</i></p>

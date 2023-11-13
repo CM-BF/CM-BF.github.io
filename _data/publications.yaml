@@ -1,45 +1,154 @@
-papers:
+#papers:
+#  #  - title: "FlowX: Towards Explainable Graph Neural Networks via Message Flows"
+#  #      authors: "<b>Shurui Gui</b>, Hao Yuan, Jie Wang, Qicheng Lao, Kang Li, Shuiwang Ji"
+#  #      venue: "arXiv preprint arXiv:2206.12987, 2022"
+#  #      paper_pdf: "https://arxiv.org/abs/2206.12987"
+#  #      code: "https://github.com/CM-BF/FlowX"
+#  #      img: "/assets/imgs/FlowX.png"
+#  #      selected: y
+#
+#  - title: "Artificial intelligence for science in quantum, atomistic, and continuum systems"
+#    authors: "<b>Shurui Gui</b>, Meng Liu, Xiner Li, Youzhi Luo, Shuiwang Ji"
+#    venue: "Neural Information Processing Systems (<b>NeurIPS</b>), 2023"
+#    paper_pdf: "https://openreview.net/forum?id=z3HACY5CMa"
+#    code: "https://github.com/divelab/LECI/"
+#    img: "/assets/imgs/LECI.png"
+#    selected: y
+#
+##  - title: "Joint Learning of Label and Environment Causal Independence for Graph Out-of-Distribution Generalization"
+##      authors: "<b>Shurui Gui</b>, Meng Liu, Xiner Li, Youzhi Luo, Shuiwang Ji"
+##      venue: "Neural Information Processing Systems (<b>NeurIPS</b>), 2023"
+##      paper_pdf: "https://openreview.net/forum?id=z3HACY5CMa"
+##      code: "https://github.com/divelab/LECI/"
+##      img: "/assets/imgs/LECI.png"
+##      selected: y
+#
+##  - title: "GOOD: A Graph Out-of-Distribution Benchmark"
+##      authors: "<b>Shurui Gui*</b>, Xiner Li*, Limei Wang, Shuiwang Ji"
+##      venue: "Neural Information Processing Systems (<b>NeurIPS</b>), 2022 </br><em>Datasets and Benchmarks Track</em>"
+##      paper_pdf: "https://openreview.net/forum?id=8hHg-zs_p-h&referrer=%5Bthe%20profile%20of%20Shurui%20Gui%5D(%2Fprofile%3Fid%3D~Shurui_Gui1)"
+##      code: "https://github.com/divelab/GOOD/"
+##      documentation: "https://good.readthedocs.io/en/latest/"
+##      img: "/assets/imgs/GOOD.png"
+##      selected: y
+##
+##  - title: "Explainability in graph neural networks: A taxonomic survey"
+##      authors: "Hao Yuan, Haiyang Yu, <b>Shurui Gui</b>, Shuiwang Ji"
+##      venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2022"
+##      paper_pdf: "https://ieeexplore.ieee.org/abstract/document/9875989"
+##      code: "https://github.com/divelab/DIG"
+##      documentation: "https://diveintographs.readthedocs.io/en/latest/"
+##      img: "/assets/imgs/Xsurvey.png"
+##      selected: y
+##
+##  - title: "DIG: A Turnkey Library for Diving into Graph Deep Learning Research"
+##      authors: "Meng Liu*, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Hao Yuan*, <b>Shurui Gui*</b>, Haiyang Yu*, Zhao Xu, Jingtun Zhang, Yi Liu, Keqiang Yan, Haoran Liu, Cong Fu, Bora Oztekin, Xuan Zhang, and Shuiwang Ji"
+##      venue: "Journal of Machine Learning Research (<b>JMLR</b>), 2021"
+##      paper_pdf: "https://jmlr.org/papers/v22/21-0343.html"
+##      code: "https://github.com/divelab/DIG"
+##      code_star: "https://img.shields.io/github/stars/divelab/DIG?style=social"
+##      documentation: "https://diveintographs.readthedocs.io/en/latest/"
+##      img: "/assets/imgs/DIG-logo.jpg"
+##      selected: y
+##
+##  - title: "Featureflow: Robust video interpolation via structure-to-texture generation"
+##      authors: "<b>Shurui Gui*</b>, Chaoyue Wang*, Qihua Chen, Dacheng Tao"
+##      venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>) 2020"
+##      paper_pdf: "https://openaccess.thecvf.com/content_CVPR_2020/papers/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.pdf"
+##      code: "https://github.com/CM-BF/FeatureFlow"
+##      img: "/assets/imgs/FeatureFlow.png"
+##      selected: y
 
-  - title: "GOOD: A Graph Out-of-Distribution Benchmark"
-    authors: "<b>Shurui Gui*</b>, Xiner Li*, Limei Wang, Shuiwang Ji"
-    venue: "Neural Information Processing Systems (<b>NeurIPS</b>), 2022 </br><em>Datasets and Benchmarks Track</em>"
-    paper_pdf: "https://openreview.net/forum?id=8hHg-zs_p-h&referrer=%5Bthe%20profile%20of%20Shurui%20Gui%5D(%2Fprofile%3Fid%3D~Shurui_Gui1)"
-    code: "https://github.com/divelab/GOOD/"
-    documentation: "https://good.readthedocs.io/en/latest/"
-    img: "/assets/imgs/GOOD.png"
-    selected: y
+pubs:
+  - year: preprint
+    papers:
 
-  - title: "Explainability in graph neural networks: A taxonomic survey"
-    authors: "Hao Yuan, Haiyang Yu, <b>Shurui Gui</b>, Shuiwang Ji"
-    venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2022"
-    paper_pdf: "https://ieeexplore.ieee.org/abstract/document/9875989"
-    code: "https://github.com/divelab/DIG"
-    documentation: "https://diveintographs.readthedocs.io/en/latest/"
-    img: "/assets/imgs/Xsurvey.png"
-    selected: y
+      - title: "Artificial intelligence for science in quantum, atomistic, and continuum systems"
+        authors: "Xuan Zhang, Limei Wang, Jacob Helwig, Youzhi Luo, Cong Fu, Yaochen Xie, Meng Liu, Yuchao Lin, Zhao Xu, Keqiang Yan, Keir Adams, Maurice Weiler, Xiner Li, Tianfan Fu, Yucheng Wang, Haiyang Yu, YuQing Xie, Xiang Fu, Alex Strasser, Shenglong Xu, Yi Liu, Yuanqi Du, Alexandra Saxton, Hongyi Ling, Hannah Lawrence, Hannes Stärk, <b>Shurui Gui</b>, Carl Edwards, Nicholas Gao, Adriana Ladera, Tailin Wu, Elyssa F Hofgard, Aria Mansouri Tehrani, Rui Wang, Ameya Daigavane, Montgomery Bohde, Jerry Kurtin, Qian Huang, Tuong Phung, Minkai Xu, Chaitanya K Joshi, Simon V Mathis, Kamyar Azizzadenesheli, Ada Fang, Alán Aspuru-Guzik, Erik Bekkers, Michael Bronstein, Marinka Zitnik, Anima Anandkumar, Stefano Ermon, Pietro Liò, Rose Yu, Stephan Günnemann, Jure Leskovec, Heng Ji, Jimeng Sun, Regina Barzilay, Tommi Jaakkola, Connor W Coley, Xiaoning Qian, Xiaofeng Qian, Tess Smidt, Shuiwang Ji"
+        venue: "arXiv preprint arXiv:2307.08423"
+        paper_pdf: "https://arxiv.org/pdf/2307.08423"
+        code: "https://github.com/divelab/AIRS"
+        code_star: "https://img.shields.io/github/stars/divelab/AIRS?style=social"
+        img: "/assets/imgs/AIRS.png"
+        selected: y
 
-  - title: "FlowX: Towards Explainable Graph Neural Networks via Message Flows"
-    authors: "<b>Shurui Gui</b>, Hao Yuan, Jie Wang, Qicheng Lao, Kang Li, Shuiwang Ji"
-    venue: "arXiv preprint arXiv:2206.12987, 2022"
-    paper_pdf: "https://arxiv.org/abs/2206.12987"
-#    code: "https://github.com/divelab/DIG"
-    img: "/assets/imgs/FlowX.png"
-    selected: y
+      - title: "Graph Structure and Feature Extrapolation for Out-of-Distribution Generalization"
+        authors: "Xiner Li, <b>Shurui Gui</b>, Youzhi Luo, Shuiwang Ji"
+        venue: "arXiv preprint arXiv:2306.08076"
+        paper_pdf: "https://arxiv.org/pdf/2306.08076"
+        img: "/assets/imgs/G-splice.pdf"
+        selected: y
 
-  - title: "DIG: A Turnkey Library for Diving into Graph Deep Learning Research"
-    authors: "Meng Liu*, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Hao Yuan*, <b>Shurui Gui*</b>, Haiyang Yu*, Zhao Xu, Jingtun Zhang, Yi Liu, Keqiang Yan, Haoran Liu, Cong Fu, Bora Oztekin, Xuan Zhang, and Shuiwang Ji"
-    venue: "Journal of Machine Learning Research (<b>JMLR</b>), 2021"
-    paper_pdf: "https://jmlr.org/papers/v22/21-0343.html"
-    code: "https://github.com/divelab/DIG"
-    code_star: "https://img.shields.io/github/stars/divelab/DIG?style=social"
-    documentation: "https://diveintographs.readthedocs.io/en/latest/"
-    img: "/assets/imgs/DIG-logo.jpg"
-    selected: y
 
-  - title: "Featureflow: Robust video interpolation via structure-to-texture generation"
-    authors: "<b>Shurui Gui*</b>, Chaoyue Wang*, Qihua Chen, Dacheng Tao"
-    venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>) 2020"
-    paper_pdf: "https://openaccess.thecvf.com/content_CVPR_2020/papers/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.pdf"
-    code: "https://github.com/CM-BF/FeatureFlow"
-    img: "/assets/imgs/FeatureFlow.png"
-    selected: y
+      - title: "FlowX: Towards Explainable Graph Neural Networks via Message Flows"
+        authors: "<b>Shurui Gui</b>, Hao Yuan, Jie Wang, Qicheng Lao, Kang Li, Shuiwang Ji"
+        venue: "arXiv preprint arXiv:2206.12987, 2022"
+        paper_pdf: "https://arxiv.org/abs/2206.12987"
+        code: "https://github.com/CM-BF/FlowX"
+        img: "/assets/imgs/FlowX.png"
+        selected: y
+
+  - year: 2023
+    papers:
+      - title: "Joint Learning of Label and Environment Causal Independence for Graph Out-of-Distribution Generalization"
+        authors: "<b>Shurui Gui</b>, Meng Liu, Xiner Li, Youzhi Luo, Shuiwang Ji"
+        venue: "Neural Information Processing Systems (<b>NeurIPS</b>), 2023"
+        paper_pdf: "https://openreview.net/forum?id=z3HACY5CMa"
+        code: "https://github.com/divelab/LECI/"
+        code_star: "https://img.shields.io/github/stars/divelab/LECI?style=social"
+        img: "/assets/imgs/LECI.png"
+        selected: y
+
+  - year: 2022
+    papers:
+      - title: "GOOD: A Graph Out-of-Distribution Benchmark"
+        authors: "<b>Shurui Gui*</b>, Xiner Li*, Limei Wang, Shuiwang Ji"
+        venue: "Neural Information Processing Systems (<b>NeurIPS</b>), 2022 </br><em>Datasets and Benchmarks Track</em>"
+        paper_pdf: "https://openreview.net/forum?id=8hHg-zs_p-h&referrer=%5Bthe%20profile%20of%20Shurui%20Gui%5D(%2Fprofile%3Fid%3D~Shurui_Gui1)"
+        code: "https://github.com/divelab/GOOD/"
+        code_star: "https://img.shields.io/github/stars/divelab/GOOD?style=social"
+        documentation: "https://good.readthedocs.io/en/latest/"
+        img: "/assets/imgs/GOOD.png"
+        selected: y
+
+      - title: "Explainability in graph neural networks: A taxonomic survey"
+        authors: "Hao Yuan, Haiyang Yu, <b>Shurui Gui</b>, Shuiwang Ji"
+        venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2022"
+        paper_pdf: "https://ieeexplore.ieee.org/abstract/document/9875989"
+        code: "https://github.com/divelab/DIG"
+        documentation: "https://diveintographs.readthedocs.io/en/latest/"
+        img: "/assets/imgs/Xsurvey.png"
+        selected: y
+
+  - year: 2021
+    papers:
+      - title: "DIG: A Turnkey Library for Diving into Graph Deep Learning Research"
+        authors: "Meng Liu*, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Hao Yuan*, <b>Shurui Gui*</b>, Haiyang Yu*, Zhao Xu, Jingtun Zhang, Yi Liu, Keqiang Yan, Haoran Liu, Cong Fu, Bora Oztekin, Xuan Zhang, and Shuiwang Ji"
+        venue: "Journal of Machine Learning Research (<b>JMLR</b>), 2021"
+        paper_pdf: "https://jmlr.org/papers/v22/21-0343.html"
+        code: "https://github.com/divelab/DIG"
+        code_star: "https://img.shields.io/github/stars/divelab/DIG?style=social"
+        documentation: "https://diveintographs.readthedocs.io/en/latest/"
+        img: "/assets/imgs/DIG-logo.jpg"
+        selected: y
+
+  - year: 2020
+    papers:
+      - title: "Featureflow: Robust video interpolation via structure-to-texture generation"
+        authors: "<b>Shurui Gui*</b>, Chaoyue Wang*, Qihua Chen, Dacheng Tao"
+        venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>) 2020"
+        paper_pdf: "https://openaccess.thecvf.com/content_CVPR_2020/papers/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.pdf"
+        code: "https://github.com/CM-BF/FeatureFlow"
+        code_star: "https://img.shields.io/github/stars/CM-BF/FeatureFlow?style=social"
+        img: "/assets/imgs/FeatureFlow.png"
+        selected: y
+
+
+
+
+
+
+
+
+
+

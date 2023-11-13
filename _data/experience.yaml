@@ -1,10 +1,16 @@
 experiences:
 
 - place: "Texas A&M University"
-  time: "2020 - now"
+  time: "2020 - now (Pandemic Gap Year: 2020 fall - 2021 summer)"
   title: "Ph.D. Student"
-  subtitle: "DIVE Lab: Advisor: Dr. Shuiwang Ji"
-  category: "school"
+  subtitle: "DIVE Lab, Advisor: Dr. Shuiwang Ji"
+  category: "Education"
+
+- place: "West China Hospital of Sichuan University"
+  time: "2020 - 2021"
+  title: "Intern"
+  subtitle: "Research assistant, Mentor: Dr. Kang Li"
+  category: "work"
 
 - place: "The University of Sydney"
   time: "Summer 2019"
@@ -16,5 +22,5 @@ experiences:
   time: "2016 - 2020"
   title: "B.E. Student"
   subtitle: "Computer Science and Technology (Honor class)"
-  category: "school"
+  category: "Education"
 

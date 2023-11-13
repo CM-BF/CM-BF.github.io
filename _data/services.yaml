@@ -1,11 +1,28 @@
 
 reviewers:
+  - venue: "NeurIPS on Datasets and Benchmarks track"
+    year: "2022, 2023"
 
-  - venue: "Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>) on Datasets and Benchmarks track"
-    year: "2022"
+  - venue: "Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>)"
+    year: "2023"
+
+  - venue: "International Conference on Machine Learning (<b>ICML</b>)"
+    year: "2023"
+
+  - venue: "International Conference on Learning Representation (<b>ICLR</b>)"
+    year: "2023"
 
   - venue: "Learning on Graphs Conference (<b>LoG</b>)"
-    year: "2022"
+    year: "2022, 2023"
+
+  - venue: "International Conference on Information and Knowledge Management (<b>CIKM</b>)"
+    year: "2023"
+
+  - venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)"
+
+  - venue: "IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)"
+
+
 
 
 
