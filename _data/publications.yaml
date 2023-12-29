@@ -79,17 +79,16 @@ pubs:
         img: "/assets/imgs/G-splice.pdf"
         selected: y
 
-
+  - year: 2023
+    papers:
       - title: "FlowX: Towards Explainable Graph Neural Networks via Message Flows"
         authors: "<b>Shurui Gui</b>, Hao Yuan, Jie Wang, Qicheng Lao, Kang Li, Shuiwang Ji"
-        venue: "arXiv preprint arXiv:2206.12987, 2022"
+        venue: "<b>TPAMI</b> accepted (waiting for publication)"
         paper_pdf: "https://arxiv.org/abs/2206.12987"
         code: "https://github.com/CM-BF/FlowX"
         img: "/assets/imgs/FlowX.png"
         selected: y
 
-  - year: 2023
-    papers:
       - title: "Joint Learning of Label and Environment Causal Independence for Graph Out-of-Distribution Generalization"
         authors: "<b>Shurui Gui</b>, Meng Liu, Xiner Li, Youzhi Luo, Shuiwang Ji"
         venue: "Neural Information Processing Systems (<b>NeurIPS</b>), 2023"
