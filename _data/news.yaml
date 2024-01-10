@@ -1,6 +1,6 @@
 
 news:
-  - title: "Our paper \"<b>FlowX: Towards Explainable Graph Neural Networks via Message Flows</b>\" has been accepted by <b>TPAMI</b>. (Formal paper will be published soon.)"
+  - title: "Our paper \"<b>FlowX: Towards Explainable Graph Neural Networks via Message Flows</b>\" has been accepted by <b>TPAMI</b>!"
     date: "12/2023"
   - title: "Our paper <a href=https://github.com/divelab/LECI> Joint Learning of Label and Environment Causal Independence for Graph Out-of-Distribution Generalization</a> has been accepted to <b>NeurIPS</b> 2023."
     date: "09/2023"

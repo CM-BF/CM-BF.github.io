@@ -83,7 +83,7 @@ pubs:
     papers:
       - title: "FlowX: Towards Explainable Graph Neural Networks via Message Flows"
         authors: "<b>Shurui Gui</b>, Hao Yuan, Jie Wang, Qicheng Lao, Kang Li, Shuiwang Ji"
-        venue: "<b>TPAMI</b> accepted (waiting for publication)"
+        venue: "<b>TPAMI</b>"
         paper_pdf: "https://arxiv.org/abs/2206.12987"
         code: "https://github.com/CM-BF/FlowX"
         img: "/assets/imgs/FlowX.png"
