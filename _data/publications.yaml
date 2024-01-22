@@ -79,11 +79,21 @@ pubs:
         img: "/assets/imgs/G-splice.pdf"
         selected: y
 
+  - year: 2024
+    papers:
+      - title: "Active Test-Time Adaptation: Theoretical Analyses and An Algorithm"
+        authors: "<b>Shurui Gui*</b>, Xiner Li*, Shuiwang Ji"
+        venue: "The Twelfth International Conference on Learning Representations (<b>ICLR</b>), 2024"
+        paper_pdf: "https://openreview.net/forum?id=YHUGlwTzFB"
+        code: "https://github.com/divelab/ATTA"
+        img: "/assets/imgs/ATTA.png"
+        selected: y
+
   - year: 2023
     papers:
       - title: "FlowX: Towards Explainable Graph Neural Networks via Message Flows"
         authors: "<b>Shurui Gui</b>, Hao Yuan, Jie Wang, Qicheng Lao, Kang Li, Shuiwang Ji"
-        venue: "<b>TPAMI</b>"
+        venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2023"
         paper_pdf: "https://arxiv.org/abs/2206.12987"
         code: "https://github.com/CM-BF/FlowX"
         img: "/assets/imgs/FlowX.png"
