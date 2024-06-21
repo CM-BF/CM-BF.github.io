@@ -1,26 +1,32 @@
 experiences:
 
+- place: "NEC Laboratories America, Inc"
+  time: "Summer 2024"
+  title: "Research Intern"
+  subtitle: "Mentor: Dr. Martin Renqiang Min"
+  category: "work"
+
 - place: "Texas A&M University"
-  time: "2020 - now (Pandemic Gap Year: 2020 fall - 2021 summer)"
+  time: "2020 - now"
   title: "Ph.D. Student"
   subtitle: "DIVE Lab, Advisor: Dr. Shuiwang Ji"
   category: "Education"
 
-- place: "West China Hospital of Sichuan University"
+- place: "West China Biomedical Big Data Center"
   time: "2020 - 2021"
-  title: "Intern"
-  subtitle: "Research assistant, Mentor: Dr. Kang Li"
+  title: "Research Intern"
+  subtitle: "Research Intern, Mentor: Dr. Kang Li"
   category: "work"
 
 - place: "The University of Sydney"
   time: "Summer 2019"
-  title: "Intern"
+  title: "Research Intern"
   subtitle: "Research Scientist, Mentor: Dr. Dacheng Tao"
   category: "work"
 
 - place: "USTC"
   time: "2016 - 2020"
   title: "B.E. Student"
-  subtitle: "Computer Science and Technology (Honor class)"
+  subtitle: "Computer Science and Technology (Honor class) Top 7%"
   category: "Education"
 

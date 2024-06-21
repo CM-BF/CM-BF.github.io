@@ -72,21 +72,30 @@ pubs:
         img: "/assets/imgs/AIRS.png"
         selected: y
 
+  - year: 2024
+    papers:
+      - title: "Equivariance via Minimal Frame Averaging for More Symmetries and Efficiency"
+        authors: "Yuchao Lin, Jacob Helwig, <b>Shurui Gui</b>, Shuiwang Ji"
+        venue: "Forty-first International Conference on Machine Learning (<b>ICML</b>), 2024"
+        paper_pdf: "https://openreview.net/forum?id=guFsTBXsov"
+        code: "https://github.com/divelab/MFA"
+        code_star: "https://img.shields.io/github/stars/divelab/MFA?style=social"
+        selected: y
+
       - title: "Graph Structure and Feature Extrapolation for Out-of-Distribution Generalization"
         authors: "Xiner Li, <b>Shurui Gui</b>, Youzhi Luo, Shuiwang Ji"
-        venue: "arXiv preprint arXiv:2306.08076"
-        paper_pdf: "https://arxiv.org/pdf/2306.08076"
+        venue: "Forty-first International Conference on Machine Learning (<b>ICML</b>), 2024"
+        paper_pdf: "https://openreview.net/forum?id=Xgrey8uQhr"
         img: "/assets/imgs/G-splice.pdf"
         selected: y
 
-  - year: 2024
-    papers:
       - title: "Active Test-Time Adaptation: Theoretical Analyses and An Algorithm"
         authors: "<b>Shurui Gui*</b>, Xiner Li*, Shuiwang Ji"
         venue: "The Twelfth International Conference on Learning Representations (<b>ICLR</b>), 2024"
         paper_pdf: "https://openreview.net/forum?id=YHUGlwTzFB"
         code: "https://github.com/divelab/ATTA"
-        img: "/assets/imgs/ATTA.png"
+        code_star: "https://img.shields.io/github/stars/divelab/ATTA?style=social"
+        img: "/assets/imgs/ATTA.pdf"
         selected: y
 
   - year: 2023
@@ -96,6 +105,7 @@ pubs:
         venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2023"
         paper_pdf: "https://arxiv.org/abs/2206.12987"
         code: "https://github.com/CM-BF/FlowX"
+        code_star: "https://img.shields.io/github/stars/CM-BF/FlowX?style=social"
         img: "/assets/imgs/FlowX.png"
         selected: y
 
