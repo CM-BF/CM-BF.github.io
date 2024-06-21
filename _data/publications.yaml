@@ -76,7 +76,7 @@ pubs:
     papers:
       - title: "Equivariance via Minimal Frame Averaging for More Symmetries and Efficiency"
         authors: "Yuchao Lin, Jacob Helwig, <b>Shurui Gui</b>, Shuiwang Ji"
-        venue: "Forty-first International Conference on Machine Learning (<b>ICML</b>), 2024"
+        venue: "Forty-first International Conference on Machine Learning (<b>ICML (Spotlight, 3.5% acceptance rate)</b>), 2024"
         paper_pdf: "https://openreview.net/forum?id=guFsTBXsov"
         code: "https://github.com/divelab/MFA"
         code_star: "https://img.shields.io/github/stars/divelab/MFA?style=social"
