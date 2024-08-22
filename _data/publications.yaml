@@ -86,7 +86,7 @@ pubs:
         authors: "Xiner Li, <b>Shurui Gui</b>, Youzhi Luo, Shuiwang Ji"
         venue: "Forty-first International Conference on Machine Learning (<b>ICML</b>), 2024"
         paper_pdf: "https://openreview.net/forum?id=Xgrey8uQhr"
-        img: "/assets/imgs/G-splice.pdf"
+        img: "/assets/imgs/G-splice.png"
         selected: y
 
       - title: "Active Test-Time Adaptation: Theoretical Analyses and An Algorithm"
@@ -95,7 +95,7 @@ pubs:
         paper_pdf: "https://openreview.net/forum?id=YHUGlwTzFB"
         code: "https://github.com/divelab/ATTA"
         code_star: "https://img.shields.io/github/stars/divelab/ATTA?style=social"
-        img: "/assets/imgs/ATTA.pdf"
+        img: "/assets/imgs/ATTA.png"
         selected: y
 
   - year: 2023
