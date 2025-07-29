@@ -62,10 +62,39 @@
 pubs:
   - year: preprint
     papers:
+      - title: "Mitigating Spurious Correlations in LLMs via Causality-Aware Post-Training"
+        authors: "<b>Shurui Gui</b>, Xiner Li, Shuiwang Ji"
+        venue: "arXiv:2506.09433"
+        paper_pdf: "https://arxiv.org/pdf/2506.09433"
+#        code: "https://github.com/divelab/AIRS/tree/main/OpenODE/DIF"
+#        code_star: "https://img.shields.io/github/stars/divelab/AIRS?style=social"
+        img: "/assets/imgs/CAPT.png"
+        selected: y
+
+
+  - year: 2025
+    papers:
+      - title: "Discovering Physics Laws of Dynamical Systems via Invariant Function Learning"
+        authors: "<b>Shurui Gui</b>, Xiner Li, Shuiwang Ji"
+        venue: "Forty-second International Conference on Machine Learning (<b>ICML</b>), 2025"
+        paper_pdf: "https://openreview.net/forum?id=hzYHxtIn23&"
+        code: "https://github.com/divelab/AIRS/tree/main/OpenODE/DIF"
+        code_star: "https://img.shields.io/github/stars/divelab/AIRS?style=social"
+        img: "/assets/imgs/IFL.png"
+        selected: y
+
+      - title: "Geometry Informed Tokenization of Molecules for Language Model Generation"
+        authors: "Xiner Li, Limei Wang, Youzhi Luo, Carl Edwards, <b>Shurui Gui</b>, Yuchao Lin, Heng Ji, Shuiwang Ji"
+        venue: "Forty-second International Conference on Machine Learning (<b>ICML</b>), 2025"
+        paper_pdf: "https://openreview.net/forum?id=4umRQdvuW5"
+#        code: "https://github.com/divelab/AIRS/tree/main/OpenODE/DIF"
+#        code_star: "https://img.shields.io/github/stars/divelab/AIRS?style=social"
+        img: "/assets/imgs/GeoLLM.png"
+        selected: y
 
       - title: "Artificial intelligence for science in quantum, atomistic, and continuum systems"
         authors: "Xuan Zhang, Limei Wang, Jacob Helwig, Youzhi Luo, Cong Fu, Yaochen Xie, Meng Liu, Yuchao Lin, Zhao Xu, Keqiang Yan, Keir Adams, Maurice Weiler, Xiner Li, Tianfan Fu, Yucheng Wang, Haiyang Yu, YuQing Xie, Xiang Fu, Alex Strasser, Shenglong Xu, Yi Liu, Yuanqi Du, Alexandra Saxton, Hongyi Ling, Hannah Lawrence, Hannes Stärk, <b>Shurui Gui</b>, Carl Edwards, Nicholas Gao, Adriana Ladera, Tailin Wu, Elyssa F Hofgard, Aria Mansouri Tehrani, Rui Wang, Ameya Daigavane, Montgomery Bohde, Jerry Kurtin, Qian Huang, Tuong Phung, Minkai Xu, Chaitanya K Joshi, Simon V Mathis, Kamyar Azizzadenesheli, Ada Fang, Alán Aspuru-Guzik, Erik Bekkers, Michael Bronstein, Marinka Zitnik, Anima Anandkumar, Stefano Ermon, Pietro Liò, Rose Yu, Stephan Günnemann, Jure Leskovec, Heng Ji, Jimeng Sun, Regina Barzilay, Tommi Jaakkola, Connor W Coley, Xiaoning Qian, Xiaofeng Qian, Tess Smidt, Shuiwang Ji"
-        venue: "arXiv preprint arXiv:2307.08423"
+        venue: "Foundations and Trends® in Machine Learning"
         paper_pdf: "https://arxiv.org/pdf/2307.08423"
         code: "https://github.com/divelab/AIRS"
         code_star: "https://img.shields.io/github/stars/divelab/AIRS?style=social"

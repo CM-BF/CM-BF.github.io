@@ -1,5 +1,13 @@
 
 news:
+  - title: "Our paper <a href=https://arxiv.org/pdf/2307.08423> Artificial intelligence for science in quantum, atomistic, and continuum systems</a> has been accepted by <b>Foundations and Trends® in Machine Learning</b>."
+    date: "06/2025"
+  - title: "I am starting a new position as Applied Scientist Intern at Amazon."
+    date: "05/2025"
+  - title: "Our paper <a href=https://openreview.net/forum?id=hzYHxtIn23&> Discovering Physics Laws of Dynamical Systems via Invariant Function Learning</a> has been accepted by <b>ICML</b> 2025."
+    date: "05/2025"
+  - title: "Our paper <a href=https://openreview.net/forum?id=4umRQdvuW5> Geometry Informed Tokenization of Molecules for Language Model Generation</a> has been accepted by <b>ICML</b> 2025."
+    date: "05/2025"
   - title: "I am starting a new position as Research Intern at <a href=https://www.nec-labs.com> NEC Laboratories America, Inc</a>."
     date: "05/2024"
   - title: "Our paper <a href=https://openreview.net/forum?id=guFsTBXsov> Equivariance via Minimal Frame Averaging for More Symmetries and Efficiency</a> has been accepted by <b>ICML (Spotlight)</b> 2024."
