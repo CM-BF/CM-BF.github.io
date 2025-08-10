@@ -63,7 +63,7 @@ pubs:
   - year: preprint
     papers:
       - title: "Mitigating Spurious Correlations in LLMs via Causality-Aware Post-Training"
-        authors: "<b>Shurui Gui</b>, Xiner Li, Shuiwang Ji"
+        authors: "<b>Shurui Gui</b>, Shuiwang Ji"
         venue: "arXiv:2506.09433"
         paper_pdf: "https://arxiv.org/pdf/2506.09433"
 #        code: "https://github.com/divelab/AIRS/tree/main/OpenODE/DIF"
